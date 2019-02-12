@@ -1,4 +1,4 @@
-main = putStrLn "Section 1.4"
+main = putStrLn "Section 1.4 Functions and definitions"
 
 -- Exercises
 -- 1.4.1 Describe one appropriate type for the definite integral function of mathematical analysis, as used in the phrase 'the integral of f from a to b'.

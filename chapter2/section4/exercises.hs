@@ -1,4 +1,4 @@
-main = putStrLn "Section 2.4"
+main = putStrLn "Section 2.4 Tuples"
 
 -- fst :: (a, b) -> a
 -- fst (x, y) = x

@@ -1,6 +1,6 @@
 import Data.Char
 
-main = putStrLn "Section 2.3"
+main = putStrLn "Section 2.3 Characters and strings"
 
 isdigit x = '0' <= x && x <= '9'
 isupper x = 'A' <= x && x <= 'Z'

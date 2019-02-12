@@ -1,4 +1,4 @@
-main = putStrLn "Section 1.2"
+main = putStrLn "Section 1.2 Expressions and values"
 
 -- Exercises
 -- 1.2.1 Count the number of different ways that:

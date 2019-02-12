@@ -1,4 +1,4 @@
-main = putStrLn "Section 1.1"
+main = putStrLn "Section 1.1 Functional programming"
 
 square x = x * x
 

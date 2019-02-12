@@ -1,4 +1,4 @@
-main = putStrLn "Section 2.1"
+main = putStrLn "Section 2.1 Numbers"
 
 both f x = f x x
 

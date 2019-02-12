@@ -1,4 +1,4 @@
-main = putStrLn "Section 2.2"
+main = putStrLn "Section 2.2 Booleans"
 
 within eps x y = abs (x - y) < eps
 
